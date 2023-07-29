@@ -262,8 +262,12 @@
     z-index: -1;
 }
 
+.introduction-text {
+    margin: 0 12.6rem;
+}
+
 .step-img {
-    width: 35%;
+    width: 60%;
 }
 
 /**************************/
