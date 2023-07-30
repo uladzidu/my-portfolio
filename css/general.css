@@ -119,6 +119,8 @@ body {
     font-weight: 700;
     color: #fff;
     letter-spacing: -0.5px;
+    border-top: 1px solid grey;
+    padding-top: 3rem;
 }
 
 .heading-primary {

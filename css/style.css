@@ -211,7 +211,7 @@
 /**************************/
 
 .section-how {
-    padding: 9.6rem 0;
+    padding: 9.6rem 0 3.4rem 0;
     background-color: #050b07;;
 }
 
@@ -262,8 +262,14 @@
     z-index: -1;
 }
 
+.first {
+    border: none;
+}
+
 .introduction-text {
-    margin: 0 12.6rem;
+    margin: 2.4rem 12.6rem 9.6rem 12.6rem;
+    border: none;
+    font-size: 3.4rem;
 }
 
 .step-img {
@@ -382,6 +388,13 @@
     display: grid;
     grid-template-columns: 55fr 45fr;
     align-items: center;
+    padding: 5.6rem 0 2.4rem 0 ;
+}
+
+.technologies-heading {
+    font-size: 5.4rem;
+    border-top: 1px solid grey;
+    padding-top: 3rem;
 }
 
 .testimonials-container {
